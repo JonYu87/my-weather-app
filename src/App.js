@@ -30,7 +30,7 @@ export default function App() {
       {typeof data.main != "undefined" ? (
         <Weather weatherData={data} />
       ) : (
-        <div>WAT</div>
+        <div></div>
       )}
     </div>
   );
