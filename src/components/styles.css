@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Recursive&display=swap");
 
+.App {
+  display: flex;
+  justify-content: center;
+}
+
 .main {
   width: 700px;
   border-radius: 15px;
